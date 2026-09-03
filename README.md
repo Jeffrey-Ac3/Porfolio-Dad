@@ -1,6 +1,20 @@
-# Odunayo Ezekiel Feyisetan — Portfolio
+# Odunayo Ezekiel Feyisetan — Portfolio (Please do not fork; contains personal information)
 
-A personal portfolio website and CV, built as a static site (plain HTML/CSS/JS — no build step needed).
+⚠️ CRITICAL NOTICE: DO NOT FORK THIS REPOSITORY
+
+Why this repository is public:
+
+This repository is maintained as a public codebase strictly for functional and operational requirements. Public availability is mandatory for the architecture to execute properly.
+
+Notice regarding unauthorized duplication:
+
+Standard usage, contributing, and open feedback are welcome. However, creating unauthorized forks or secondary distributions of this repository is strictly discouraged and actively monitored.
+
+Duplicating or redistributing proprietary system components, configuration assets, or trade secrets contained herein without authorization may constitute an infringement under applicable national and international intellectual property laws, including the Computer Fraud and Abuse Act (CFAA), the Digital Millennium Copyright Act (DMCA), and regional cybersecurity legislation.
+
+Automated tracking systems regularly audit public forks. Unauthorized clones subject to copyright or license violations will be submitted directly to GitHub for immediate DMCA takedowns and permanent account action, and may be escalated for legal remediation.
+
+# A personal portfolio website and CV, built as a static site (plain HTML/CSS/JS — no build step needed).
 
 ## Files in this folder
 
